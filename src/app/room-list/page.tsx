@@ -5,8 +5,8 @@ import React from "react";
 
 export default function RoomList() {
   return (
-    <div className="bg-slate-950 text-white h-screen p-28 flex flex-col gap-y-28">
-      <div className="flex justify-between">
+    <div className="bg-slate-950 text-white h-full p-5 flex flex-col gap-y-12">
+      <div className="flex gap-x-5">
         <CreateRoomCard />
         <JoinRoomCard />
       </div>
