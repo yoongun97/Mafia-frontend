@@ -1,4 +1,4 @@
-import React from "react";
+"use client";
 
 function ResultScreen() {
   return <div>ResultScreen</div>;

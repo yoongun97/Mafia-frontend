@@ -1,6 +1,6 @@
 "use client";
+
 import { Rooms } from "@/dumyData";
-import React from "react";
 import RoomListItem from "./RoomListItem";
 
 export default function RoomListCard() {
